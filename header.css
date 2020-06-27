@@ -1,0 +1,11 @@
+.header {  
+    background-color: darkblue;
+    font-size: 40px;
+    color: azure;
+    /*padding: 20px;*/
+}
+
+.header-title { 
+    margin: 0;
+    text-align: center;
+}
